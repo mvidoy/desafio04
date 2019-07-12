@@ -6,7 +6,7 @@ function Header() {
     <header>
       <nav>
         <img src="https://i.imgur.com/KDIDiSE.png" />
-        <div>
+        <div className="by">
           <span>by Osvaldo Vidoy </span>
         </div>
         <div>
